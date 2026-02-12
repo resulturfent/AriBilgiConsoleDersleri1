@@ -145,6 +145,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "260210_3_Method_Ornek2", "2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "260212_1_method_elektrik_fatura_ornek", "260212_1_method_elektrik_fatura_ornek\260212_1_method_elektrik_fatura_ornek.csproj", "{F0AB302B-F30A-4B3D-A207-BFD364CB5C6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "260212_2_Emekli_method_ornek", "260212_2_Emekli_method_ornek\260212_2_Emekli_method_ornek.csproj", "{EFA439F0-2B23-4264-AF56-4E51BA29A85F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -407,6 +409,10 @@ Global
 		{F0AB302B-F30A-4B3D-A207-BFD364CB5C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0AB302B-F30A-4B3D-A207-BFD364CB5C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0AB302B-F30A-4B3D-A207-BFD364CB5C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA439F0-2B23-4264-AF56-4E51BA29A85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA439F0-2B23-4264-AF56-4E51BA29A85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA439F0-2B23-4264-AF56-4E51BA29A85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA439F0-2B23-4264-AF56-4E51BA29A85F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -476,6 +482,7 @@ Global
 		{E65DE00B-91C5-4C37-A7F4-17480AB6DC82} = {0082FBBC-FA65-4F32-9FB8-06F2FDABE201}
 		{4A28822C-7DBD-417A-8B95-908641A0566B} = {0082FBBC-FA65-4F32-9FB8-06F2FDABE201}
 		{F0AB302B-F30A-4B3D-A207-BFD364CB5C6D} = {0082FBBC-FA65-4F32-9FB8-06F2FDABE201}
+		{EFA439F0-2B23-4264-AF56-4E51BA29A85F} = {0082FBBC-FA65-4F32-9FB8-06F2FDABE201}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9252FB82-DDB2-43AD-B5C0-3F2C16FBEFCD}
