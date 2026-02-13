@@ -143,9 +143,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "260210_2_Method_Ornek1", "2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "260210_3_Method_Ornek2", "260210_3_Method_Ornek2\260210_3_Method_Ornek2.csproj", "{4A28822C-7DBD-417A-8B95-908641A0566B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "260212_1_method_elektrik_fatura_ornek", "260212_1_method_elektrik_fatura_ornek\260212_1_method_elektrik_fatura_ornek.csproj", "{F0AB302B-F30A-4B3D-A207-BFD364CB5C6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "260212_1_method_elektrik_fatura_ornek", "260212_1_method_elektrik_fatura_ornek\260212_1_method_elektrik_fatura_ornek.csproj", "{F0AB302B-F30A-4B3D-A207-BFD364CB5C6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "260212_2_Emekli_method_ornek", "260212_2_Emekli_method_ornek\260212_2_Emekli_method_ornek.csproj", "{EFA439F0-2B23-4264-AF56-4E51BA29A85F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "260212_2_Emekli_method_ornek", "260212_2_Emekli_method_ornek\260212_2_Emekli_method_ornek.csproj", "{EFA439F0-2B23-4264-AF56-4E51BA29A85F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "260213_1_Overload_Method", "260213_1_Overload_Method\260213_1_Overload_Method.csproj", "{2A3E3F2A-9A3B-4ED6-822A-89BCB6292267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "260213_2_Overload_Ornek1", "260213_2_Overload_Ornek1\260213_2_Overload_Ornek1.csproj", "{E195554B-D5F2-4242-B6EA-4C12E0213099}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Konu8_Console_Prpje", "Konu8_Console_Prpje", "{CC03FDD5-FAB9-48CF-B621-7A1E5E99B015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "260213_3_Bankamatik_Proje", "260213_3_Bankamatik_Proje\260213_3_Bankamatik_Proje.csproj", "{71286A64-14FE-425C-B504-92A05D10BAD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -413,6 +421,18 @@ Global
 		{EFA439F0-2B23-4264-AF56-4E51BA29A85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFA439F0-2B23-4264-AF56-4E51BA29A85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFA439F0-2B23-4264-AF56-4E51BA29A85F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A3E3F2A-9A3B-4ED6-822A-89BCB6292267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3E3F2A-9A3B-4ED6-822A-89BCB6292267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3E3F2A-9A3B-4ED6-822A-89BCB6292267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3E3F2A-9A3B-4ED6-822A-89BCB6292267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E195554B-D5F2-4242-B6EA-4C12E0213099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E195554B-D5F2-4242-B6EA-4C12E0213099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E195554B-D5F2-4242-B6EA-4C12E0213099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E195554B-D5F2-4242-B6EA-4C12E0213099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71286A64-14FE-425C-B504-92A05D10BAD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71286A64-14FE-425C-B504-92A05D10BAD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71286A64-14FE-425C-B504-92A05D10BAD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71286A64-14FE-425C-B504-92A05D10BAD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -483,6 +503,9 @@ Global
 		{4A28822C-7DBD-417A-8B95-908641A0566B} = {0082FBBC-FA65-4F32-9FB8-06F2FDABE201}
 		{F0AB302B-F30A-4B3D-A207-BFD364CB5C6D} = {0082FBBC-FA65-4F32-9FB8-06F2FDABE201}
 		{EFA439F0-2B23-4264-AF56-4E51BA29A85F} = {0082FBBC-FA65-4F32-9FB8-06F2FDABE201}
+		{2A3E3F2A-9A3B-4ED6-822A-89BCB6292267} = {0082FBBC-FA65-4F32-9FB8-06F2FDABE201}
+		{E195554B-D5F2-4242-B6EA-4C12E0213099} = {0082FBBC-FA65-4F32-9FB8-06F2FDABE201}
+		{71286A64-14FE-425C-B504-92A05D10BAD1} = {CC03FDD5-FAB9-48CF-B621-7A1E5E99B015}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9252FB82-DDB2-43AD-B5C0-3F2C16FBEFCD}
